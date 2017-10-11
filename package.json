@@ -1,0 +1,19 @@
+{
+  "name": "node-teste",
+  "version": "1.0.0",
+  "description": "Teste utilizando NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Mondenez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "express-load": "^1.1.16",
+    "express-validator": "^4.2.1",
+    "mysql": "^2.15.0"
+  }
+}
