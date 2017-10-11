@@ -1,2 +1,3 @@
-# node-crud
-Iniciando com NodeJS
+# NodeJS CRUD
+
+CRUD simples para estudo de NodeJS
